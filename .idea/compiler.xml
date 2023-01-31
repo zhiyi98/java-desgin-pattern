@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="template-method" />
+        <module name="factory" />
+        <module name="decorator" />
+        <module name="chain" />
+        <module name="adapter" />
+        <module name="memento" />
+        <module name="ChatMediator" />
+        <module name="prototype" />
+        <module name="command" />
+        <module name="abstract-factory" />
+        <module name="observer" />
+        <module name="proxy" />
+        <module name="iterator" />
+        <module name="Flyweight" />
+        <module name="compose" />
+        <module name="builder" />
+        <module name="interpreter-pattern" />
+        <module name="state" />
+        <module name="strategy" />
+        <module name="visitor" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="abstract-factory" target="1.8" />
+      <module name="adapter" target="1.8" />
+      <module name="builder" target="1.8" />
+      <module name="chain" target="1.8" />
+      <module name="ChatMediator" target="1.8" />
+      <module name="command" target="1.8" />
+      <module name="compose" target="1.8" />
+      <module name="decorator" target="1.8" />
+      <module name="factory" target="1.8" />
+      <module name="Flyweight" target="1.8" />
+      <module name="interpreter-pattern" target="1.8" />
+      <module name="iterator" target="1.8" />
+      <module name="memento" target="1.8" />
+      <module name="observer" target="1.8" />
+      <module name="prototype" target="1.8" />
+      <module name="proxy" target="1.8" />
+      <module name="state" target="1.8" />
+      <module name="strategy" target="1.8" />
+      <module name="template-method" target="1.8" />
+      <module name="visitor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
